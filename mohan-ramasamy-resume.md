@@ -2,7 +2,7 @@
 
 📧 <itsmohan527@gmail.com> (preferred) | 📞 +1 248-416-2425 | 📍 Sterling Heights, Michigan, USA
 
-![](media/github1.png) [github.com/itsmohan527](http://github.com/itsmohan527) | ![](media/linkedin.png) [linkedin.com/in/itsmohan527](http://linkedin.com/in/itsmohan527) | ![](media/workh1b.png) **Work Authorization:** H1B Visa & I-140: Approved | **Current Employer:** General Motors Corp.
+![](media/github1.png) [github.com/itsmohan527](https://itsmohan527.github.io/About-Me/mohan-ramasamy-resume.html) | ![](media/linkedin.png) [linkedin.com/in/itsmohan527](http://linkedin.com/in/itsmohan527) | ![](media/workh1b.png) **Work Authorization:** H1B Visa & I-140: Approved | **Current Employer:** General Motors Corp.
 
 ---
 
@@ -67,7 +67,10 @@ M. Kumarasamy College of Engineering, Anna University, India
 
 ## **Professional Experience**
 
+
 ### ![](media/gm.png) **General Motors Corp** | *January 2019 – Present* | **6 Years+**
+
+---
 
 #### **ELM Suite Operations and Automation • Systems Engineering Tools**
 *January 2023 - Present | 2+ years | Warren, Michigan*
@@ -142,6 +145,9 @@ M. Kumarasamy College of Engineering, Anna University, India
 
 ### ![](media/capgemini.png) **Capgemini North America, Inc.** | *May 2016 - January 2019* | **2 years 7 months**
 
+
+---
+
 #### **IBM Rational Tool Technical Specialist**
 *May 2016 - January 2019 | 2 years 7 months | Warren, Michigan*  
 *(Client: General Motors Warren, Michigan)*
@@ -157,6 +163,9 @@ M. Kumarasamy College of Engineering, Anna University, India
 ---
 
 ### ![](media/tcs.png) **Tata Consultancy Services** | *February 2010 - May 2016* | **6 Years 3 Months**
+
+
+---
 
 #### **NGT (Next Generation Tools) Consultant and SWAT Team Member**
 *October 2014 - May 2016 | 1 year 7 months | Michigan*  
